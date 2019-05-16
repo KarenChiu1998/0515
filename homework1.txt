@@ -1,0 +1,1 @@
+https://mighty-wave-15732.herokuapp.com/admin/login/?next=/admin/
